@@ -30,8 +30,17 @@ contains tools and resources to learn web developer to learn spring with java.
 
 [jschmitz.dev](https://jschmitz.dev/posts/how_to_use_spring_datas_specification/)
 
+[linuxtut.com](https://linuxtut.com/en/26d3a599a1fdcbb35800/)
+
 [pawneecity](https://sites.google.com/site/pawneecity/sprint-boot/data-jpa-and-jpaspecificationexecutor-spring-boot)
 
 [blog.tratif.com](https://blog.tratif.com/2017/11/23/effective-restful-search-api-in-spring/)
 
 [baeldung.com](https://www.baeldung.com/hibernate-criteria-queries-metamodel)
+
+
+## Database
+
+[gestionbasesdatos.readthedocs.io](https://gestionbasesdatos.readthedocs.io/es/latest/)
+
+
